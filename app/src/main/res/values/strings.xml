@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Rejestracja wizyt</string>
+    <string name="hello">Umów wizytę</string>
+    <string name="info">Wpisz pesel pacjenta dla którego chcesz umówić wizytę</string>
+    <string name="pesel">Podaj numer pesel pacjenta</string>
+    <string name="choose_specjalist">WYBIERZ SPECJALISTĘ</string>
+    <string name="submit_doctor">ZATWIERDŹ</string>
+
+
+    <!--second activity-->
+    <string name="doctor_hours">Godziny przyjęcia:</string>
+    <string name="submit2">WYBIERZ</string>
 </resources>
